@@ -1,6 +1,11 @@
 {
-    "prompt": "score_9, score_8_up, score_7_up, score_6_up, source_anime, masterpiece, newest, Highly detailed, 1girl, skinny, slender, innocent, sitting, arms at sides, long hair, pantyhose, no shoes, colorful hair, multicolored hair,",
+    "positive_prompt": "(score_9), score_8_up, highres, 1girl, anime,  elegant gothic dress, garden, sitting, dynamic pose, pantyhose, no shoes, ((fire)), evening, night",
     "negative_prompt": "3d, cgi, sketch, worst quality, low quality, deformed, blurry, realistic, censored, bad bad anatomy, watermark, signature",
+    "seed": 0,
+    "steps": 29,
+    "cfg": 9.0,
+    "sampler_name": "euler",
+    "scheduler": "normal",
     "width": 832,
     "height": 1152
 }
